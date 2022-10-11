@@ -21,7 +21,8 @@ a {
     padding: 20px;
     text-align: center;
     font-weight:  bolder;
-    text-decoration: none;     
+    text-decoration: none;  
+    margin: -4px;   
 }
 
 a:hover {
